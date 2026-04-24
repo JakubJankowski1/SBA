@@ -15,6 +15,8 @@ def circle_area(radius):
     """Calculates the area of a circle."""
     return math.pi * (radius ** 2)
 
+#change role b
+
 if __name__ == "__main__":
     # Demonstration of current logic
     print(f"Triangle Area (b=10, h=5): {triangle_area(10, 5)}")
